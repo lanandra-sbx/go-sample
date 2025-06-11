@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, lanandra-sbx!")
+    fmt.Println("Welcome to lanandra-sbx!")
 }
